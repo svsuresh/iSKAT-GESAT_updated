@@ -1,3 +1,6 @@
+
+# Fixed code errors in main iSKAT and GESAT functions 
+
 # iSKAT/GESAT
 
 GESAT/iSKAT tests for ZxE (gene-environment interactions), after
