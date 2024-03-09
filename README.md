@@ -1,5 +1,5 @@
 
-# Fixed code errors in main iSKAT and GESAT functions 
+## Fixed code errors in main `iSKAT` and `GESAT` functions 
 
 # iSKAT/GESAT
 
